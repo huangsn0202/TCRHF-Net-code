@@ -1,0 +1,30 @@
+# Project environment exported from D:\Anaconda3\python.exe
+# Python version: 3.9.21
+# Platform: Windows 64-bit
+
+# CUDA 11.8 builds used by the current environment.
+--extra-index-url https://download.pytorch.org/whl/cu118
+torch==2.6.0+cu118
+torchvision==0.21.0+cu118
+
+# Numerical computation and data processing.
+numpy==1.24.4
+pandas==1.5.3
+scikit-learn==1.5.2
+
+# Excel input, output, and experiment reports.
+openpyxl==3.1.5
+XlsxWriter==3.2.3
+
+# Plotting.
+matplotlib==3.7.1
+
+# Image and progress-bar support.
+Pillow==11.2.1
+tqdm==4.66.5
+
+# FG-CLIP2-Large loading and feature extraction.
+transformers==4.55.4
+huggingface-hub==0.36.2
+safetensors==0.5.3
+tokenizers==0.21.4
